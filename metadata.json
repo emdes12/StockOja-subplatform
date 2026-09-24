@@ -1,0 +1,6 @@
+{
+  "name": "StockỌja Commerce Platform",
+  "description": "Multi-tenant inventory management, POS, customer tracking, supplier management, and online storefront platform for SMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
